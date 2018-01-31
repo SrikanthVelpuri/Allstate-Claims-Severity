@@ -20,7 +20,9 @@ This dataset is taken from kaggle website.
    
 ### Modelling
     
-    Using Mean Average error as a factor to select the best technique among popular techniques.
+    Using Mean Average Error as a factor to select the best technique among popular techniques.
+    
+    Testing various algorithms and choosing the one with least Mean Average Error.
     
     1.Linear Regression
     
